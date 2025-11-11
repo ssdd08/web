@@ -210,7 +210,7 @@ with col1:
 
 with col2:
     st.write("유튜브 동영상 예제")
-    st.video(https://www.youtube.com/watch?v=qrqHlgqNTHo")
+    st.video("https://www.youtube.com/watch?v=qrqHlgqNTHo")
 
 # --- 10. 마무리 ---
 st.markdown("---")
